@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1,Asianet HD
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
+
+#EXTINF:-1,Asianet ME
+https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
+
+#EXTINF:-1,Asianet Movies
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
+
+#EXTINF:-1,Flowers
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+
+#EXTINF:-1,Mazhavil Manorama
+https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8
+
+#EXTINF:-1,Kairali
+https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
+
+#EXTINF:-1,Kairali Arabia
+https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
+
+#EXTINF:-1,Kairali WE
+https://streams.tangotv.in/WETV/ORIGIN/index.m3u8
